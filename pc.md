@@ -7,3 +7,4 @@
 | PSU                      | 47,49        | https://www.computeruniverse.net/de/evga-500-br-80-bronze-500-watt?agt=288 |
 | CASE                    | 43,51     | https://www.amazon.de/dp/B016CMTFIC?tag=pcp05-21&linkCode=ogi&th=1&psc=1 |
 | ------------------- | 614,77    | ------------------------------------------------------------------------------------------------------------- |
+| Fan x2 | 20 | https://www.amazon.de/Noctua-NF-F12PWM-4-Pin-Premium-L%C3%BCfter/dp/B00650P2ZC/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Noctua+NF-F12+PWM&qid=1609015942&sr=8-4 |
